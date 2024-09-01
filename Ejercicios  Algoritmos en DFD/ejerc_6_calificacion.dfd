@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+nota
+1
+0
+4
+1
+17
+'Ingrese la nota'
+5
+1
+4
+nota
+7
+0
+1
+23
+nota >=19 and nota <=20
+7
+0
+1
+23
+nota >=16 and nota <=18
+7
+0
+1
+22
+nota>=13 and nota <=15
+7
+0
+1
+22
+nota>=10 and nota <=12
+4
+1
+16
+'NOTA E: ',nota 
+13
+4
+1
+16
+'NOTA D: ',nota 
+13
+13
+4
+1
+16
+'NOTA C: ',nota 
+13
+13
+4
+1
+16
+'NOTA B: ',nota 
+13
+13
+4
+1
+16
+'NOTA A: ',nota 
+13
+1

@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+CatA
+1
+0
+4
+CatB
+1
+0
+4
+1
+34
+'Digite el cateto A y el cateto B'
+5
+1
+9
+CatA,CatB
+6
+1
+1
+h
+19
+sqrt(CatA^2+CatB^2)
+4
+1
+38
+'La hipotenusa del triangulo es:  ', h
+1
